@@ -5,3 +5,5 @@ Post File via Http(s) using QNetworkAccessManager and QHttpMultiPart with a QML 
 - Sending is done in C++
 - Communication C++ / QML
 - Dynamic creation/detruction of QML objects
+
+![](https://raw.githubusercontent.com/mbruel/qHttpPostFile/master/qHttpPostFile.png)
